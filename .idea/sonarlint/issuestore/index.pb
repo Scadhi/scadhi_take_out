@@ -38,10 +38,6 @@ Asrc/main/java/com/itheima/reggie/controller/CommonController.java,d\f\df1de084
 l
 <src/main/java/com/itheima/reggie/common/CustomException.java,6\d\6dadc720af912a4ac7b3efa6e5776b1aad1ea648
 a
-1src/main/java/com/itheima/reggie/entity/Dish.java,7\4\7454e3f4d474249e534515a3488f01d11ef8d520
-o
-?src/main/java/com/itheima/reggie/controller/DishController.java,b\6\b6b7f201f11df84b05e35eafff93bbff7d29c6d5
-a
 1src/main/java/com/itheima/reggie/dto/DishDto.java,b\0\b01ed4f9ba56ed424f9647b0b0ef525681fb7c73
 g
 7src/main/java/com/itheima/reggie/entity/DishFlavor.java,4\2\425b08f528841b440e4eb158e82989d0e4636020
@@ -71,8 +67,6 @@ s
 Csrc/main/java/com/itheima/reggie/common/GlobelExceptionHandler.java,a\1\a11147dce264dd7f4d1b7f20323913983b5c9ed1
 p
 @src/main/java/com/itheima/reggie/common/JacksonObjectMapper.java,9\6\96ed2041cca7fef510640276f718c4b98f3beeb2
-m
-=src/main/java/com/itheima/reggie/filter/LoginCheckFilter.java,4\2\427dcde354e78c1bde5944c379cf90e444f4ddf5
 n
 >src/main/java/com/itheima/reggie/config/MybatisPlusConfig.java,1\c\1c32ba23a244d6b86400fdd77df8b173ac54e299
 p
@@ -131,8 +125,6 @@ d
 4src/main/java/com/itheima/reggie/utils/SMSUtils.java,6\5\65d1a098fde2722386374c5725dd65dfe04e0e0f
 a
 1src/main/java/com/itheima/reggie/entity/User.java,7\7\776e6345e73ff732df759c0f03fa945cf9a9328e
-o
-?src/main/java/com/itheima/reggie/controller/UserController.java,9\7\978e8a8a13efe9c8ed339b46b533d75abd4ebec1
 g
 7src/main/java/com/itheima/reggie/mapper/UserMapper.java,8\5\8576438c3ffdea0efe7e9aee94b4babbe3f87e35
 i
