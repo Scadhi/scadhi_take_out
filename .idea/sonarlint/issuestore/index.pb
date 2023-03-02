@@ -11,8 +11,6 @@ m.idea/dataSources/d32826e0-472a-4107-9d84-1edc244acec3/storage_v2/_src_/schema/
 `.idea/dataSources/d32826e0-472a-4107-9d84-1edc244acec3/storage_v2/_src_/schema/mysql.osA4Bg.meta,1\4\14d3d8ec0b58f31c51951b74e12b547b94f1bf54
 j
 :.idea/dataSources/d32826e0-472a-4107-9d84-1edc244acec3.xml,0\7\079e095e7014bc561c5bd8f4a8cd7ca31228b7a8
-h
-8src/main/java/com/itheima/reggie/entity/AddressBook.java,5\c\5cac96f2c281db704c0b7d75d5987af27e02167d
 v
 Fsrc/main/java/com/itheima/reggie/controller/AddressBookController.java,b\3\b33b0c690dbb281762e803adeef0d1e3ed71021b
 n
@@ -23,8 +21,6 @@ y
 Isrc/main/java/com/itheima/reggie/service/impl/AddressBookServiceImpl.java,b\a\bab4250f3764f4c84c22dccfdb9a6f85af8a16e4
 h
 8src/main/java/com/itheima/reggie/common/BaseContext.java,4\f\4f638af0c68d74d993dd6faee252be75b1fb75da
-e
-5src/main/java/com/itheima/reggie/entity/Category.java,a\b\abbf68577db16799bdd0c6f54833a310be901887
 s
 Csrc/main/java/com/itheima/reggie/controller/CategoryController.java,4\b\4b9f28d320a2a41ee34ae8927ec9cbac8acea956
 k
@@ -39,8 +35,6 @@ l
 <src/main/java/com/itheima/reggie/common/CustomException.java,6\d\6dadc720af912a4ac7b3efa6e5776b1aad1ea648
 a
 1src/main/java/com/itheima/reggie/dto/DishDto.java,b\0\b01ed4f9ba56ed424f9647b0b0ef525681fb7c73
-g
-7src/main/java/com/itheima/reggie/entity/DishFlavor.java,4\2\425b08f528841b440e4eb158e82989d0e4636020
 m
 =src/main/java/com/itheima/reggie/mapper/DishFlavorMapper.java,e\7\e79763a53bf0dd652f93b0f8208fee786302eac6
 o
@@ -53,8 +47,6 @@ i
 9src/main/java/com/itheima/reggie/service/DishService.java,9\0\90357e6d8d266fec826a60f0b5dc9d1c3507827d
 r
 Bsrc/main/java/com/itheima/reggie/service/impl/DishServiceImpl.java,6\6\66d61fea12d16c993cb945b82d89180798f402f6
-e
-5src/main/java/com/itheima/reggie/entity/Employee.java,9\b\9bc0b296fb796889a37a71ca70490761f5c2ff42
 s
 Csrc/main/java/com/itheima/reggie/controller/EmployeeController.java,4\d\4dc2f0508321aade4bc83f33c33e6f5ee0bd3965
 k
@@ -71,8 +63,6 @@ n
 >src/main/java/com/itheima/reggie/config/MybatisPlusConfig.java,1\c\1c32ba23a244d6b86400fdd77df8b173ac54e299
 p
 @src/main/java/com/itheima/reggie/common/MyMetaObjectHandler.java,3\5\35d75bddfcdd3415a4b0af1e545af57aef73f1a9
-h
-8src/main/java/com/itheima/reggie/entity/OrderDetail.java,2\1\212038a255d2672af23bb10ac2d8deae0b5b3675
 v
 Fsrc/main/java/com/itheima/reggie/controller/OrderDetailController.java,8\1\81797aae4ac5c0e3341340dd808caa39735fa889
 n
@@ -84,21 +74,11 @@ Isrc/main/java/com/itheima/reggie/service/impl/OrderDetailServiceImpl.java,5\1\
 h
 8src/main/java/com/itheima/reggie/mapper/OrderMapper.java,6\f\6f3bfb144a2ee55322d172ed5f01b5038ca7b13e
 c
-3src/main/java/com/itheima/reggie/entity/Orders.java,3\b\3b993ae31b1084d1c9a979bcca2e77ddd97729d8
-c
 3src/main/java/com/itheima/reggie/dto/OrdersDto.java,7\4\747a062f90a4aff41f655f0fb4f3eda744dbaf9b
 j
 :src/main/java/com/itheima/reggie/service/OrderService.java,7\b\7b898420d4ef1b787cecef21c26d0c0047add4ad
 s
 Csrc/main/java/com/itheima/reggie/service/impl/OrderServiceImpl.java,4\7\479286f770e767833c829a7a1c83e5ab0e947b2a
-^
-.src/main/java/com/itheima/reggie/common/R.java,4\a\4a47cdf1f590a2fdfb867e23ee92cbc427df2a8f
-g
-7src/main/java/com/itheima/reggie/ReggieApplication.java,7\3\732c3b6bcd0fd9ebf03570f81b785603a545cf63
-d
-4src/main/java/com/itheima/reggie/entity/Setmeal.java,f\0\f0956565cdf6f184b15cbedf46424e5dda26ef4c
-h
-8src/main/java/com/itheima/reggie/entity/SetmealDish.java,c\5\c59eb3aed42d6ee76e209d5a314b09958a3bfc3e
 n
 >src/main/java/com/itheima/reggie/mapper/SetmealDishMapper.java,5\9\59e5b03108fbbc6f106de8cbd3e8fbbba2cfd588
 p
@@ -113,8 +93,6 @@ l
 <src/main/java/com/itheima/reggie/service/SetmealService.java,d\6\d6ec8af0d37488b76806bacab31b363a7c8de270
 u
 Esrc/main/java/com/itheima/reggie/service/impl/SetmealServiceImpl.java,a\e\ae9399b0c034b0dc21737a178cd1492a766b213b
-i
-9src/main/java/com/itheima/reggie/entity/ShoppingCart.java,4\f\4fc59f8ec50057a003bb346887ef128e0b6d1145
 o
 ?src/main/java/com/itheima/reggie/mapper/ShoppingCartMapper.java,3\8\38bc85c715d131f0bbc61851b53f96d612e22d63
 q
@@ -123,8 +101,6 @@ z
 Jsrc/main/java/com/itheima/reggie/service/impl/ShoppingCartServiceImpl.java,6\1\6149ee87fb5cc1e519d014df9c892d08d7496113
 d
 4src/main/java/com/itheima/reggie/utils/SMSUtils.java,6\5\65d1a098fde2722386374c5725dd65dfe04e0e0f
-a
-1src/main/java/com/itheima/reggie/entity/User.java,7\7\776e6345e73ff732df759c0f03fa945cf9a9328e
 g
 7src/main/java/com/itheima/reggie/mapper/UserMapper.java,8\5\8576438c3ffdea0efe7e9aee94b4babbe3f87e35
 i
