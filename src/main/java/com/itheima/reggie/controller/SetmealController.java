@@ -2,6 +2,7 @@ package com.itheima.reggie.controller;
 
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
+import com.itheima.reggie.annotation.TakeCount;
 import com.itheima.reggie.common.R;
 import com.itheima.reggie.dto.DishDto;
 import com.itheima.reggie.dto.SetmealDto;
@@ -56,6 +57,7 @@ public class SetmealController {
      */
     @CacheEvict(value = "setmealCache",allEntries = true)
     @PostMapping
+    @TakeCount(time = 15)
     public R<String> save(@RequestBody SetmealDto setmealDto) {
         //log.info("套餐信息：{}", setmealDto);
 
@@ -116,6 +118,7 @@ public class SetmealController {
      */
     @CacheEvict(value = "setmealCache",allEntries = true)
     @DeleteMapping
+    @TakeCount(time = 15)
     public R<String> delete(String[] ids){
         int index=0;
         for(String id:ids) {
@@ -160,6 +163,7 @@ public class SetmealController {
     //修改套餐
     @CacheEvict(value = "setmealCache",allEntries = true)
     @PutMapping
+    @TakeCount(time = 15)
     public R<String> update(@RequestBody SetmealDto setmealDto){
         setmealService.updateWithDish(setmealDto);
         return R.success("修改成功");
@@ -173,6 +177,7 @@ public class SetmealController {
      */
     @Cacheable(value = "setmealCache",key = "#setmeal.categoryId+'_'+#setmeal.status")
     @GetMapping("/list")
+    @TakeCount(time = 15)
     public R<List<Setmeal>> list(Setmeal setmeal) {
 
         LambdaQueryWrapper<Setmeal> queryWrapper = new LambdaQueryWrapper<>();

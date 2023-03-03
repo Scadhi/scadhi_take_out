@@ -4,6 +4,7 @@ import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.itheima.reggie.common.R;
 import com.itheima.reggie.entity.User;
 import com.itheima.reggie.service.UserService;
+import com.itheima.reggie.annotation.TakeCount;
 import com.itheima.reggie.utils.ValidateCodeUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang.StringUtils;
@@ -74,6 +75,7 @@ public class UserController {
      * @param session
      * @return
      */
+    @TakeCount(time = 15)
     @PostMapping("/login")
     public R<User> login(@RequestBody Map map, HttpSession session){
         log.info(map.toString());
@@ -116,6 +118,7 @@ public class UserController {
     }
 
     //用户登出
+    @TakeCount(time = 15)
     @PostMapping("/loginout")
     public R<String> loginout(HttpServletRequest request){
         //清理Session中保存的当前用户登录的id

@@ -2,6 +2,7 @@ package com.itheima.reggie.controller;
 
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
+import com.itheima.reggie.annotation.TakeCount;
 import com.itheima.reggie.common.R;
 import com.itheima.reggie.dto.DishDto;
 import com.itheima.reggie.entity.Category;
@@ -135,6 +136,7 @@ public class DishController {
      * @param dishDto
      * @return
      */
+    @TakeCount(time = 15)
     @PutMapping
     public R<String> update(@RequestBody DishDto dishDto) {
 
@@ -178,6 +180,7 @@ public class DishController {
      * @param dish
      * @return
      */
+    @TakeCount(time = 15)
     @GetMapping("/list")
     public R<List<DishDto>> list(Dish dish) {
 

@@ -11,8 +11,6 @@ m.idea/dataSources/d32826e0-472a-4107-9d84-1edc244acec3/storage_v2/_src_/schema/
 `.idea/dataSources/d32826e0-472a-4107-9d84-1edc244acec3/storage_v2/_src_/schema/mysql.osA4Bg.meta,1\4\14d3d8ec0b58f31c51951b74e12b547b94f1bf54
 j
 :.idea/dataSources/d32826e0-472a-4107-9d84-1edc244acec3.xml,0\7\079e095e7014bc561c5bd8f4a8cd7ca31228b7a8
-v
-Fsrc/main/java/com/itheima/reggie/controller/AddressBookController.java,b\3\b33b0c690dbb281762e803adeef0d1e3ed71021b
 n
 >src/main/java/com/itheima/reggie/mapper/AddressBookMapper.java,f\8\f895ff2ecdb14b1116ad35228734b9f1d9cfbe56
 p
@@ -57,8 +55,6 @@ v
 Fsrc/main/java/com/itheima/reggie/service/impl/EmployeeServiceImpl.java,d\9\d95aa507de2cbc809e2d369668685c90cf7eefb4
 s
 Csrc/main/java/com/itheima/reggie/common/GlobelExceptionHandler.java,a\1\a11147dce264dd7f4d1b7f20323913983b5c9ed1
-p
-@src/main/java/com/itheima/reggie/common/JacksonObjectMapper.java,9\6\96ed2041cca7fef510640276f718c4b98f3beeb2
 n
 >src/main/java/com/itheima/reggie/config/MybatisPlusConfig.java,1\c\1c32ba23a244d6b86400fdd77df8b173ac54e299
 p
@@ -109,5 +105,3 @@ r
 Bsrc/main/java/com/itheima/reggie/service/impl/UserServiceImpl.java,c\c\cc09941d59c1ccc2cd67eabccec57a604c266448
 m
 =src/main/java/com/itheima/reggie/utils/ValidateCodeUtils.java,5\2\529313d65e4994543bbe440f8e328a11e9257ad3
-i
-9src/main/java/com/itheima/reggie/config/WebMvcConfig.java,c\8\c85cd5b9f00c55590c5fccb68328989bee1a7674
