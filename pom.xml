@@ -10,8 +10,8 @@
         <version>2.4.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.itheima</groupId>
-    <artifactId>reggie_take_out</artifactId>
+    <groupId>com.scadhi</groupId>
+    <artifactId>takeout</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

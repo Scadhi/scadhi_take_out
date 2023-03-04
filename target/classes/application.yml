@@ -3,7 +3,7 @@ server:
 spring:
   application:
     # 应用的名称，可选
-    name: reggie_take_out
+    name: scadhi_take_out
   datasource:
     druid:
       driver-class-name: com.mysql.cj.jdbc.Driver
@@ -26,5 +26,5 @@ mybatis-plus:
   global-config:
     db-config:
       id-type: ASSIGN_ID
-reggie:
-  path: D:\\code\\Java\\workspace_idea\\reggie\\reggie_take_out\\src\\main\\resources\\image\\
+takeout:
+  path: D:\\code\\Java\\workspace_idea\\reggie\\scadhi_take_out\\src\\main\\resources\\image\\
