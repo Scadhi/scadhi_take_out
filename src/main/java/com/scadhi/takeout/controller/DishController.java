@@ -231,7 +231,8 @@ public class DishController {
         }).collect(Collectors.toList());
 
         //如果不存在，则查询数据库，并且将查询到的菜品数据添加到缓存中
-        redisTemplate.opsForValue().set(key,dishDtoList,60, TimeUnit.MINUTES);
+        int timeout = 50 + (int)(Math.random()*10);
+        redisTemplate.opsForValue().set(key,dishDtoList, timeout, TimeUnit.MINUTES);
 
         return R.success(dishDtoList);
     }

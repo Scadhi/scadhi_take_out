@@ -5,63 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a37e83e6-988c-4bbf-b4f2-ac725a197b1a" name="Changes" comment="外卖1.3 进一步优化，更改项目的细节">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c32ba23a244d6b86400fdd77df8b173ac54e299" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/35d75bddfcdd3415a4b0af1e545af57aef73f1a9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38bc85c715d131f0bbc61851b53f96d612e22d63" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/479286f770e767833c829a7a1c83e5ab0e947b2a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b9f28d320a2a41ee34ae8927ec9cbac8acea956" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f638af0c68d74d993dd6faee252be75b1fb75da" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51aaffbef5d0669c57376b03a323708cc720e5af" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/529313d65e4994543bbe440f8e328a11e9257ad3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/52d48b92feb43cca98ed6726a48fbd1adfefc90e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59e5b03108fbbc6f106de8cbd3e8fbbba2cfd588" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e3bfabce1fa8a161f79d306d2b23f125ea97fdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/6149ee87fb5cc1e519d014df9c892d08d7496113" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/61c34f8d28ba7f20d24a79012d229ea17cda3172" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/65d1a098fde2722386374c5725dd65dfe04e0e0f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66d61fea12d16c993cb945b82d89180798f402f6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/68117854344c2ceb1186b080426742005a6266fb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6c972f2c0d3710457e2ef2586cc58671fb35da9f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6dadc720af912a4ac7b3efa6e5776b1aad1ea648" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e0f79758749d99d2f3e43064d155cd69a1fa4f4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6f3bfb144a2ee55322d172ed5f01b5038ca7b13e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/747a062f90a4aff41f655f0fb4f3eda744dbaf9b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/75989a6a0e2ec247d0c5185042691e674012b9bd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b898420d4ef1b787cecef21c26d0c0047add4ad" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81797aae4ac5c0e3341340dd808caa39735fa889" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/8576438c3ffdea0efe7e9aee94b4babbe3f87e35" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a087dfdadcab0f33e9ccceee9784341b97d6d0e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8bf7ba5c45ae7ed20342965e8d9ae83959fc0a3b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90357e6d8d266fec826a60f0b5dc9d1c3507827d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/9672d7825de52471cfff46d6e425ce5731cfa9ed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/9791b147a66abd1c5d8ea773163ae741a3139907" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9eb8d0d777b22b2f887e1ea09683d4596b1a5796" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a11147dce264dd7f4d1b7f20323913983b5c9ed1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a33a889ddb1ad4ba7dca96e7585a504e79977954" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/e/ae9399b0c034b0dc21737a178cd1492a766b213b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b01ed4f9ba56ed424f9647b0b0ef525681fb7c73" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9f8a9805bbabb07e6afdc310de62c3c202fc921" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/bab4250f3764f4c84c22dccfdb9a6f85af8a16e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3afcc7cdae757696283afad66436a55eb0a4ed5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c9dbfee9e3a226fb68dd75682b956a970a0a87ab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc09941d59c1ccc2cd67eabccec57a604c266448" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d6ec8af0d37488b76806bacab31b363a7c8de270" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d95aa507de2cbc809e2d369668685c90cf7eefb4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/df1de084b3f45c7fba91b1c9a7537507bfedaec8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e79763a53bf0dd652f93b0f8208fee786302eac6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f895ff2ecdb14b1116ad35228734b9f1d9cfbe56" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fee7f9c6830050d2c30e3658331cd1e55717fb99" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scadhi/takeout/config/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scadhi/takeout/config/WebMvcConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scadhi/takeout/controller/CommonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scadhi/takeout/controller/CommonController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-prod.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/backend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/backend/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/backend/page/login/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/backend/page/login/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/scadhi/takeout/controller/DishController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scadhi/takeout/controller/DishController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,19 +105,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="scadhi_take_out" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="scadhi_take_out" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ReggieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="scadhi_take_out" />
       <extension name="coverage">
@@ -236,7 +169,8 @@
       <workItem from="1677736928536" duration="15599000" />
       <workItem from="1677763304086" duration="14394000" />
       <workItem from="1677931511723" duration="3307000" />
-      <workItem from="1677934874006" duration="453000" />
+      <workItem from="1677934874006" duration="4783000" />
+      <workItem from="1677942089022" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="瑞吉外卖1.0 待优化">
       <created>1677756548531</created>
@@ -287,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677934641554</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="外卖1.3 进一步优化，更改项目的细节">
+      <created>1677935393215</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677935393215</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
